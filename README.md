@@ -62,5 +62,8 @@ DONE!
    
 DONE!
 
+# MAC OS
 
+coming soon, 
+install python and homebrew your mac, get a ubuntu terminal emulator and then do the linux instructions.
 
