@@ -34,8 +34,9 @@ Open terminal
 15. install unzip: `sudo apt install unzip`
 16. extract the zip: `unzip assistant-globalplatform-github.zip`
 17. go to the unzipped folder: `cd assistant-globalplatform-github`
-18. run the python file: `python3 assistant.py`
-19. make a desktop shortcut: `ln -s assistant.py ~/Desktop`
+18. make it executable: `chmod +x ~/home/Desktop-Assistant/assistant-globalplatform-github/assistant.py`
+19. run the python file: `python3 assistant.py`
+20. make a desktop shortcut: `ln -s ~/home/Desktop-Assistant/assistant-globalplatform-github/assistant.py ~/Desktop`
 
 DONE!
 
