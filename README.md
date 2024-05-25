@@ -31,8 +31,8 @@ Open terminal
 14. extract the zip: `unzip assistant-globalplatform-github.zip`
 15. go to the unzipped folder: `cd assistant-globalplatform-github`
 16. run the python file: `python3 assistant.py`
+
 DONE!
-18. 
 
 
 
