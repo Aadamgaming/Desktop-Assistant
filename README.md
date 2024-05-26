@@ -1,6 +1,6 @@
 # Desktop-Assistant
 A ChatGPT Voice Assistant for Windows, Linux, and MacOS.
-
+You can talk to it with your microphone and it can talk back to you.
 # REQUIRMENTS
 - Python
 - pygame
