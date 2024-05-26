@@ -103,3 +103,9 @@ DONE!
 
 # MANUAL
 
+Go to the latest relase
+download the source code
+install python
+install the requirments
+open the py file
+
