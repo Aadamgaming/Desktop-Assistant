@@ -10,6 +10,7 @@ You can talk to it with your microphone and it can talk back to you.
 - tkinter
 - unzip
 - gtts
+- pyaudio
 
 # HOW TO INSTALL 
 Contents: How to install section, Linux Installation, Windows Installation, MacOS Installation, How to use section, Linux usage, Windows usage, MacOS usage.
