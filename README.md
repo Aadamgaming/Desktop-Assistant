@@ -1,5 +1,5 @@
 # Desktop-Assistant
-A ChatGPT Voice Assistant for Windows, Linux, and MacOS.
+A ChatGPT Voice Assistant for Windows, Linux, and MacOS (Maybe even IOS and Android).
 You can talk to it with your microphone and it can talk back to you.
 # REQUIRMENTS
 - Python
@@ -97,3 +97,9 @@ DONE!
 1. Open terminal
 2. Go to the repo unzipped folder: `cd ~/Desktop-Assistant/assistant-globalplatform-github`
 3. Open the python file: `python3 assistant.py`
+
+
+# EXTRA
+
+# MANUAL
+
