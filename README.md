@@ -78,7 +78,7 @@ install python and homebrew your mac, get a ubuntu terminal emulator and then do
 
 # LINUX
 
-1. Open terminal: ` ctrl+alt+T`
+1. Open terminal: `ctrl+alt+T`
 2. Go to the repo unzipped folder: `cd ~/Desktop-Assistant/assistant-globalplatform-github`
 3. Open the python file: `python3 assistant.py`
 
