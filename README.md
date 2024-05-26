@@ -11,7 +11,8 @@ A ChatGPT Assistant for Windows, Linux, and MacOS.
 - unzip
 - gtts
 
-# HOW TO USE
+# HOW TO INSTALL 
+Contents: How to install section, Linux Installation, Windows Installation, MacOS Installation, How to use section, Linux usage, Windows usage, MacOS usage.
 
 # LINUX
 
@@ -35,7 +36,6 @@ Open terminal
 16. extract the zip: `unzip assistant-globalplatform-github.zip`
 17. go to the unzipped folder: `cd assistant-globalplatform-github`
 18. make it executable: `chmod +x ~/Desktop-Assistant/assistant-globalplatform-github/assistant.py`
-19. run the python file: `python3 assistant.py`
 
 DONE!
 
@@ -59,7 +59,6 @@ DONE!
 17. Go to the repo folder: `cd Desktop-Assistant`
 18. unzip the zip file: `tar -xf assistant-globalplatform-github.zip`
 19. Go to the unzipped folder: `cd assistant-globalplatform-github`
-20. run the python file: `python3 assistant.py` or if it doesnt work then, `python assistant.py`
    
 DONE!
 
@@ -68,3 +67,28 @@ DONE!
 coming soon, 
 install python and homebrew your mac, get a ubuntu terminal emulator and then do the linux instructions.
 
+
+
+# HOW TO USE
+
+# LINUX
+
+1. Open terminal: ` ctrl+alt+T`
+2. Go to the repo unzipped folder: `cd ~/Desktop-Assistant/assistant-globalplatform-github`
+3. Open the python file: `python3 assistant.py`
+
+DONE!
+
+# WINDOWS
+
+1. Open your py interpreter
+2. Go to the repo unzipped folder: `cd Documents/Desktop-Assistant/assistant-globalplatform-github`
+3. Open the python file: `python3 assistant.py` or `python assistant.py`
+
+DONE!
+
+# MACOS
+
+1. Open terminal
+2. Go to the repo unzipped folder: `cd ~/Desktop-Assistant/assistant-globalplatform-github`
+3. Open the python file: `python3 assistant.py`
