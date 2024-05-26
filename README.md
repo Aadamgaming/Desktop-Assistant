@@ -1,5 +1,5 @@
 # Desktop-Assistant
-A ChatGPT Assistant for Windows, Linux, and MacOS.
+A ChatGPT Voice Assistant for Windows, Linux, and MacOS.
 
 # REQUIRMENTS
 - Python
