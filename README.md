@@ -69,6 +69,11 @@ install python and homebrew your mac, get a ubuntu terminal emulator and then do
 
 
 
+
+
+
+
+
 # HOW TO USE
 
 # LINUX
